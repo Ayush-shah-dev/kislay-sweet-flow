@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <img 
-                src="/lovable-uploads/1d0e49c5-5574-48fe-9fee-1de84a529d35.png" 
+                src="/lovable-uploads/060ca6d9-94d7-460f-97ec-3fc9cc926e49.png" 
                 alt="Kislay Naturals" 
                 className="h-10 w-auto"
               />
