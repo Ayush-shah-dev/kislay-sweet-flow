@@ -22,8 +22,11 @@ const Navigation = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <Leaf className="h-8 w-8 text-green-600" />
-            <span className="text-xl font-bold text-gray-900">Kaslay Naturals</span>
+            <img 
+              src="/lovable-uploads/1d0e49c5-5574-48fe-9fee-1de84a529d35.png" 
+              alt="Kislay Naturals" 
+              className="h-10 w-auto"
+            />
           </Link>
 
           {/* Desktop Navigation */}
@@ -46,7 +49,7 @@ const Navigation = () => {
           {/* WhatsApp CTA */}
           <div className="hidden md:block">
             <a
-              href="https://wa.me/917043630938?text=Hi! I'm interested in ordering Kaslay Naturals Liquid Monk Fruit Sweetener. Please share details."
+              href="https://wa.me/917043630938?text=Hi! I'm interested in ordering Kislay Naturals Liquid Monk Fruit Sweetener. Please share details."
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-green-700 transition-colors"
@@ -85,7 +88,7 @@ const Navigation = () => {
                 </Link>
               ))}
               <a
-                href="https://wa.me/917043630938?text=Hi! I'm interested in ordering Kaslay Naturals Liquid Monk Fruit Sweetener. Please share details."
+                href="https://wa.me/917043630938?text=Hi! I'm interested in ordering Kislay Naturals Liquid Monk Fruit Sweetener. Please share details."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center bg-green-600 text-white px-4 py-2 rounded-md text-base font-medium hover:bg-green-700 transition-colors mt-4"

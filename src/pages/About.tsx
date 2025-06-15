@@ -48,12 +48,12 @@ const About = () => {
       <section className="py-16 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="prose prose-lg max-w-none">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">The Journey of Kaslay Naturals</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-8">The Journey of Kislay Naturals</h2>
             
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-12">
               <div>
                 <p className="text-gray-700 mb-6">
-                  Kaslay Naturals was born from a simple yet powerful realization: millions of Indians are struggling with lifestyle diseases caused by excessive sugar consumption, yet they don't have access to truly natural, healthy alternatives.
+                  Kislay Naturals was born from a simple yet powerful realization: millions of Indians are struggling with lifestyle diseases caused by excessive sugar consumption, yet they don't have access to truly natural, healthy alternatives.
                 </p>
                 <p className="text-gray-700 mb-6">
                   Our founder, while managing diabetes in the family, discovered the incredible benefits of monk fruit - a small green gourd that has been used for centuries in Traditional Chinese Medicine. Unlike artificial sweeteners that come with side effects, or stevia with its bitter aftertaste, monk fruit offered something revolutionary: pure sweetness from nature.
@@ -151,7 +151,7 @@ const About = () => {
             Join the Natural Sweetness Revolution
           </h2>
           <p className="text-xl mb-8">
-            Ready to make the switch to a healthier lifestyle? Start your journey with Kaslay Naturals today.
+            Ready to make the switch to a healthier lifestyle? Start your journey with Kislay Naturals today.
           </p>
           <WhatsAppButton 
             text="Order on WhatsApp" 

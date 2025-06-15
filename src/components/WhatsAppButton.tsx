@@ -10,7 +10,7 @@ const WhatsAppButton = ({
   className = "",
   size = "default"
 }: WhatsAppButtonProps) => {
-  const whatsappUrl = "https://wa.me/917043630938?text=Hi! I'm interested in ordering Kaslay Naturals Liquid Monk Fruit Sweetener. Please share details.";
+  const whatsappUrl = "https://wa.me/917043630938?text=Hi! I'm interested in ordering Kislay Naturals Liquid Monk Fruit Sweetener. Please share details.";
   
   const sizeClasses = {
     small: "px-4 py-2 text-sm",

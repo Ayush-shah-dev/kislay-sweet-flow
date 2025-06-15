@@ -10,8 +10,11 @@ const Footer = () => {
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <Leaf className="h-8 w-8 text-green-400" />
-              <span className="text-xl font-bold">Kaslay Naturals</span>
+              <img 
+                src="/lovable-uploads/1d0e49c5-5574-48fe-9fee-1de84a529d35.png" 
+                alt="Kislay Naturals" 
+                className="h-10 w-auto"
+              />
             </div>
             <p className="text-gray-300 mb-4">
               Premium liquid monk fruit sweetener. Sweetness without the spike.
@@ -46,7 +49,7 @@ const Footer = () => {
             <div className="space-y-2 text-gray-300">
               <p>WhatsApp: +91 70436 30938</p>
               <a
-                href="https://wa.me/917043630938?text=Hi! I'm interested in ordering Kaslay Naturals Liquid Monk Fruit Sweetener. Please share details."
+                href="https://wa.me/917043630938?text=Hi! I'm interested in ordering Kislay Naturals Liquid Monk Fruit Sweetener. Please share details."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-green-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-green-700 transition-colors mt-2"
@@ -58,7 +61,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 Kaslay Naturals. All rights reserved.</p>
+          <p>&copy; 2024 Kislay Naturals. All rights reserved.</p>
         </div>
       </div>
     </footer>

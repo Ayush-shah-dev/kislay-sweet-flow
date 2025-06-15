@@ -103,10 +103,14 @@ const Index = () => {
       <section className="bg-gradient-to-br from-green-50 to-green-100 py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="flex justify-center mb-6">
-            <Leaf className="h-16 w-16 text-green-600" />
+            <img 
+              src="/lovable-uploads/1d0e49c5-5574-48fe-9fee-1de84a529d35.png" 
+              alt="Kislay Naturals" 
+              className="h-20 w-auto"
+            />
           </div>
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4">
-            Kaslay Naturals
+            Kislay Naturals
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8">
             "Sweetness Without the Spike"
@@ -211,7 +215,7 @@ const Index = () => {
               <thead className="bg-green-600 text-white">
                 <tr>
                   <th className="px-4 py-3 text-left">Feature</th>
-                  <th className="px-4 py-3 text-center bg-green-700">Monk Fruit (Kaslay)</th>
+                  <th className="px-4 py-3 text-center bg-green-700">Monk Fruit (Kislay)</th>
                   <th className="px-4 py-3 text-center">Stevia</th>
                   <th className="px-4 py-3 text-center">Erythritol</th>
                   <th className="px-4 py-3 text-center">Sugar</th>
@@ -234,9 +238,9 @@ const Index = () => {
           </div>
           
           <div className="text-center mt-8">
-            <p className="text-lg text-gray-700 mb-4">
-              💧 Kaslay Naturals offers the cleanest, most natural sweetener without compromise.
-            </p>
+          <p className="text-lg text-gray-700 mb-4">
+            💧 Kislay Naturals offers the cleanest, most natural sweetener without compromise.
+          </p>
             <WhatsAppButton 
               text="Order Your Bottle Today" 
               size="large"

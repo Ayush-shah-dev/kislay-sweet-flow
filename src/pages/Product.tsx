@@ -6,9 +6,9 @@ import WhatsAppButton from '../components/WhatsAppButton';
 
 const Product = () => {
   const products = [
-    { size: "10 ml", price: "₹149", servings: "25-30 servings" },
-    { size: "30 ml", price: "₹399", servings: "75-90 servings" },
-    { size: "50 ml", price: "₹599", servings: "125-150 servings" }
+    { size: "10 ml", price: "₹149", servings: "70-80 servings" },
+    { size: "30 ml", price: "₹399", servings: "210-240 servings" },
+    { size: "50 ml", price: "₹599", servings: "350-400 servings" }
   ];
 
   const benefits = [
@@ -35,7 +35,7 @@ const Product = () => {
     },
     {
       name: "Meera Singh",
-      text: "Love that it's completely natural. My whole family has switched to Kaslay Naturals.",
+      text: "Love that it's completely natural. My whole family has switched to Kislay Naturals.",
       rating: 5
     }
   ];
@@ -47,7 +47,7 @@ const Product = () => {
     },
     {
       question: "How long does a 10ml bottle last?",
-      answer: "A 10ml bottle provides 25-30 servings when using 3-4 drops per cup. For daily tea/coffee drinkers, this typically lasts 3-4 weeks."
+      answer: "A 10ml bottle provides 70-80 servings when using 3-4 drops per cup. For daily tea/coffee drinkers, this typically lasts 10-12 weeks."
     },
     {
       question: "Can I use it in tea, coffee, and baking?",

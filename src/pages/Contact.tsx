@@ -58,10 +58,10 @@ const Contact = () => {
                       For detailed inquiries and bulk orders.
                     </p>
                     <a 
-                      href="mailto:info@kaslaynaturals.com" 
+                      href="mailto:info@kislaynaturals.com" 
                       className="text-green-600 hover:text-green-700 font-medium"
                     >
-                      info@kaslaynaturals.com
+                      info@kislaynaturals.com
                     </a>
                   </div>
                 </div>
