@@ -1,4 +1,3 @@
-
 import { CheckCircle, Droplet } from 'lucide-react';
 import Navigation from '../components/Navigation';
 import Footer from '../components/Footer';
@@ -6,9 +5,9 @@ import WhatsAppButton from '../components/WhatsAppButton';
 
 const Product = () => {
   const products = [
-    { size: "10 ml", price: "₹149", servings: "70-80 servings" },
-    { size: "30 ml", price: "₹399", servings: "210-240 servings" },
-    { size: "50 ml", price: "₹599", servings: "350-400 servings" }
+    { size: "10 ml", price: "₹149", servings: "120-150 servings" },
+    { size: "30 ml", price: "₹399", servings: "360-450 servings" },
+    { size: "50 ml", price: "₹599", servings: "600-750 servings" }
   ];
 
   const benefits = [
@@ -47,7 +46,7 @@ const Product = () => {
     },
     {
       question: "How long does a 10ml bottle last?",
-      answer: "A 10ml bottle provides 70-80 servings when using 3-4 drops per cup. For daily tea/coffee drinkers, this typically lasts 10-12 weeks."
+      answer: "A 10ml bottle provides 120-150 servings when using 3-4 drops per cup. For daily tea/coffee drinkers, this typically lasts 15-20 weeks."
     },
     {
       question: "Can I use it in tea, coffee, and baking?",
